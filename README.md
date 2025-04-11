@@ -26,7 +26,7 @@ Some core requirements are:
  
 Deliverables Needed:
  
-📁 Gerber files (for PCB manufacturing)
-📁 BOM (Bill of Materials) – List of all components used
-📁 KiCad or Altium Design Files (if applicable, for future modifications)
-📁 Schematic & Board Layout Preview before finalizing the design
+📁 Gerber files (for PCB manufacturing)  
+📁 BOM (Bill of Materials) – List of all components used  
+📁 KiCad or Altium Design Files (if applicable, for future modifications)  
+📁 Schematic & Board Layout Preview before finalizing the design  
