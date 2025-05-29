@@ -66,7 +66,7 @@ GenerateClassCluster=0
 DocumentUniqueId=XHGIXPZM
 
 [Document2]
-DocumentPath=MCU_Sheet.SchDoc
+DocumentPath=Controller_Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -117,7 +117,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document5]
-DocumentPath=MCU_Sheet.Harness
+DocumentPath=Controller_Sheet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
