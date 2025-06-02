@@ -1,0 +1,23 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Bento Pad V1.0_PCB.PcbDoc   6/2/2025  8:20:33 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Bento Pad V1.0_PCB-RoundHoles.TXT
+ASCII SlotHoles File : Bento Pad V1.0_PCB-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             91        PTH        1038.44mm (40.88inch)
+T2      0.6mm (24mil)                                             Slot              4         PTH        38.16mm (1.50inch)
+T3      0.95mm (37mil)                                            Round             4         PTH        7.62mm (0.30inch)
+T4      0.62mm (24mil)                                            Round             2         NPTH       5.78mm (0.23inch)
+T5      0.81mm (32mil)                                            Round             4         NPTH       10.44mm (0.41inch)
+T6      1.702mm (67mil)                                           Round             42        NPTH       762.48mm (30.02inch)
+T7      3mm (118mil)                                              Round             42        NPTH       664.02mm (26.14inch)
+T8      3.1mm (122mil)                                            Round             8         NPTH       756.98mm (29.80inch)
+T9      3.988mm (157mil)                                          Round             21        NPTH       631.94mm (24.88inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              218
+
+Total Processing Time (hh:mm:ss) : 00:00:00
