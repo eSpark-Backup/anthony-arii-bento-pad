@@ -1,0 +1,26 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Bento_Pad_Plus_PCB.PcbDoc   6/4/2025  6:01:32 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Bento_Pad_Plus_PCB-RoundHoles.TXT
+ASCII SlotHoles File : Bento_Pad_Plus_PCB-SlotHoles.TXT
+ASCII RectHoles File : Bento_Pad_Plus_PCB-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             199       PTH        68.16inch (1731.23mm)
+T2      24mil (0.6mm)                                             Slot              4         PTH        1.50inch (38.16mm)
+T3      37mil (0.95mm)                                            Round             4         PTH        0.30inch (7.62mm)
+T4      39mil (1mm)                                               Round             15        PTH        3.33inch (84.54mm)
+T5      55mil (1.4mm)                                             Rectangle         6         PTH        8.26inch (209.82mm)
+T6      24mil (0.62mm)                                            Round             2         NPTH       0.23inch (5.78mm)
+T7      32mil (0.81mm)                                            Round             4         NPTH       0.42inch (10.75mm)
+T8      67mil (1.702mm)                                           Round             42        NPTH       29.01inch (736.84mm)
+T9      118mil (3mm)                                              Round             42        NPTH       25.63inch (651.13mm)
+T10     122mil (3.1mm)                                            Round             10        NPTH       33.30inch (845.74mm)
+T11     157mil (3.988mm)                                          Round             21        NPTH       22.71inch (576.92mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              349
+
+Total Processing Time (hh:mm:ss) : 00:00:00
