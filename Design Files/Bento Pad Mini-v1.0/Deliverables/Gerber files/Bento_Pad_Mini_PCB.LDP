@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: D:\eSpark-Consultants\anthonyarii-bentopad\Design Files\Bento Pad Mini-v1.0\Bento_Pad_Mini_PCB.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=bento_pad_mini_pcb-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=bento_pad_mini_pcb-slotholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=bento_pad_mini_pcb-rectholes.txt|DrillLayers=gtl,gbl
